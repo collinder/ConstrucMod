@@ -1,0 +1,69 @@
+{
+    "CYCLE": {
+        "NAMES": [
+            "прогоняется",
+            "прогоняемая",
+            "прогон"
+        ],
+        "DESCRIPTION": "When drawn, disкарту this and берете a new карту. Only works once per turn."
+    },
+    "BLUR": {
+        "NAMES": [
+            "blur"
+        ],
+        "DESCRIPTION": "Your #yЗащиты is carried over between turns."
+    },
+    "METALLICIZE": {
+        "NAMES": [
+            "металлизации",
+            "металлизация"
+        ],
+        "DESCRIPTION": "Дает #yЗащиту в конце каждого вашего хода."
+    },
+    "PLATED_ARMOR": {
+        "PROPER_NAME": "Plated Armor",
+        "NAMES": [
+            "plated armor",
+            "plated_armor"
+        ],
+        "DESCRIPTION": "Дает #yЗащиты at the end of each turn. Reduced when you take unblocked урона."
+    },
+    "SLIMED": {
+        "NAMES": [
+            "slimed"
+        ],
+        "DESCRIPTION": "слизи is a Статус карту that costs [R] to Сжигается."
+    },
+    "CORES": {
+        "NAMES": [
+            "ядра"
+        ],
+        "DESCRIPTION": "Ядра - карты,которые #yПрогоняются и накладывают слабый дополнительный эффект."
+    },
+    "EGG": {
+        "NAMES": [
+            "яйца",
+            "eggs"
+        ],
+        "DESCRIPTION": "Яйца - реликвии, автоматически #yУлучшающие карты, когда вы добавляете их в колоду. Яйца из модов не учитываются."
+    },
+    "MEGA_UPGRADE": {
+        "NAMES": [
+            "mega-upgrade",
+            "mega-upgraded"
+        ],
+        "DESCRIPTION": "A second upgrade that makes Construct карт even more powerful."
+    },
+    "OVERHEAT": {
+        "NAMES": [
+            "overheat",
+            "overheats",
+            "overheated",
+            "[#ff9900]overheat",
+            "[#ff9900]overheats",
+            "[#ff9900]overheated",
+            "[#ff9900]overheat:"
+        ],
+        "DESCRIPTION": "When too many карт #yПрогон in one turn, transform this карту into a #yОжог for this combat."
+    }
+}
