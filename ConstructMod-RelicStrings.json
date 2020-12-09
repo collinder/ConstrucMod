@@ -1,28 +1,28 @@
 {
     "construct:Cogwheel": {
-        "NAME": "Cogwheel",
-        "FLAVOR": "A piece of old machinery, carefully preserved.",
+        "NAME": "Шестеренка",
+        "FLAVOR": "Тщательно сохраненная часть старинной техники.",
         "DESCRIPTIONS": [
-            "Gain #b1 #yArtifact at the start of each combat."
+            "Вы начинаете каждый бой с #b1 #yАртефакта."
         ]
     },
     "construct:MasterCore": {
         "NAME": "МАстер-ядро",
         "FLAVOR": "Ядро, украденное у одного из Стражей. Призывает другие ядра на помощь.",
         "DESCRIPTIONS": [
-            "At the start of combat, shuffle #b3 random #yCores into your draw pile."
+            "Добавляет #b3 случайных #yЯдра в стопку добора в начале каждого боя."
         ]
     },
     "construct:ClockworkPhoenix": {
-        "NAME": "Clockwork Phoenix",
-        "FLAVOR": "An artificial being designed to imitate the real thing. Amazingly lifelike.",
+        "NAME": "Заводной феникс",
+        "FLAVOR": "Искуственное создание, созданное для имитации настоящего существа. Потрясающе жизнеподобно.",
         "DESCRIPTIONS": [
-            "Your #yupgraded Construct cards can now be #yMega-upgraded outside of combat."
+            "Ваши #yулучшенные карты Механизма теперь можно #yМега-улучшить вне боя."
         ]
     },
     "construct:ClawGrip": {
-        "NAME": "Claw Grip",
-        "FLAVOR": "An extendable arm used to grab hard-to-reach objects.",
+        "NAME": "Когтистый Захват",
+        "FLAVOR": "Выдвижная рука, используемая для захвата труднодоступных предметов.",
         "DESCRIPTIONS": [
             "At the end of each turn, #yRetain a random card. It costs #b1 less [E] next turn."
         ]
@@ -57,7 +57,7 @@
     },
     "construct:WeddingRing": {
         "NAME": "Wedding Ring",
-        "FLAVOR": "It's inscribed with \"FT2J\".",
+        "FLAVOR": "На нем написано - \"FT2J\".",
         "DESCRIPTIONS": [
             "Upon pickup, choose 2 cards. Once per turn, after you play one of them, play the other one too.",
             "Once per turn, after you play %s or %s, play the other one too.",
@@ -65,10 +65,10 @@
         ]
     },
     "construct:IceCubes": {
-        "NAME": "Ice Cubes",
-        "FLAVOR": "Cool and refreshing.",
+        "NAME": "Ледяные кубики",
+        "FLAVOR": "Прохладные и освежающие.",
         "DESCRIPTIONS": [
-            "Your cards cannot [#ff9900]Overheat for the first #b3 turns of combat."
+            "Ваши карты не [#ff9900]Перегреваются первые #b3 хода боя."
         ]
     },
     "construct:BoolHorns": {
@@ -115,8 +115,8 @@
         "FLAVOR": "The Метка of one who Выберите to undertake the Spire's toughest challenges."
     },
     "construct:FreezeFrame": {
-        "NAME": "Freeze Frame",
-        "FLAVOR": "This wooden picture frame is impossibly cold to the touch.",
+        "NAME": "Замороженная фоторамка",
+        "FLAVOR": "Эта деревянная фоторамка невероятно холодна на ощупь.",
         "DESCRIPTIONS": [
             "Right-click to activate or deactivate. While active, cards do not Cycle when drawn."
         ]
@@ -129,10 +129,10 @@
         ]
     },
     "construct:Photocopier": {
-        "NAME": "Photocopier",
-        "FLAVOR": "Used to копию anything 2-dimensional.",
+        "NAME": "Фотокопир",
+        "FLAVOR": "Используется, чтобы копировать что угодно двумерное.",
         "DESCRIPTIONS": [
-            "The first time you play a non-Rare card each combat, shuffle 2 copies of that card into your draw pile."
+            "Первая разыгранная не-редкая карта добавляет две свои копии в стопку добора каждый бой."
         ]
     }
 }

@@ -30,9 +30,9 @@
     },
     "SLIMED": {
         "NAMES": [
-            "slimed"
+            "в слизи"
         ],
-        "DESCRIPTION": "слизи is a Статус карту that costs [R] to Сжигается."
+        "DESCRIPTION": "В слизи - Статус, который разыгрывается за [R] и Сжигается."
     },
     "CORES": {
         "NAMES": [
@@ -43,26 +43,27 @@
     "EGG": {
         "NAMES": [
             "яйца",
-            "eggs"
+            "яйцо"
         ],
         "DESCRIPTION": "Яйца - реликвии, автоматически #yУлучшающие карты, когда вы добавляете их в колоду. Яйца из модов не учитываются."
     },
     "MEGA_UPGRADE": {
         "NAMES": [
-            "mega-upgrade",
-            "mega-upgraded"
+            "мега-улучшить",
+            "мега-улучшенных",
+            "мега-улучшать",
         ],
-        "DESCRIPTION": "A second upgrade that makes Construct карт even more powerful."
+        "DESCRIPTION": "Второе улучшение, делающее карты Механизма еще более мощными."
     },
     "OVERHEAT": {
         "NAMES": [
-            "overheat",
-            "overheats",
-            "overheated",
-            "[#ff9900]overheat",
-            "[#ff9900]overheats",
-            "[#ff9900]overheated",
-            "[#ff9900]overheat:"
+            "перегрев",
+            "перегреваются",
+            "перегревается",
+            "[#ff9900]перегрев",
+            "[#ff9900]перегреваются",
+            "[#ff9900]перегревается",
+            "[#ff9900]перегрев:"
         ],
         "DESCRIPTION": "When too many карт #yПрогон in one turn, transform this карту into a #yОжог for this combat."
     }
