@@ -7,7 +7,7 @@
         ]
     },
     "construct:MasterCore": {
-        "NAME": "МАстер-ядро",
+        "NAME": "Мастер-ядро",
         "FLAVOR": "Ядро, украденное у одного из Стражей. Призывает другие ядра на помощь.",
         "DESCRIPTIONS": [
             "Добавляет #b3 случайных #yЯдра в стопку добора в начале каждого боя."
@@ -24,44 +24,44 @@
         "NAME": "Когтистый Захват",
         "FLAVOR": "Выдвижная рука, используемая для захвата труднодоступных предметов.",
         "DESCRIPTIONS": [
-            "At the end of each turn, #yRetain a random card. It costs #b1 less [E] next turn."
+            "#yОставьте случайную карту в конце вашего хода. Она стоит на #b1 [E] меньше в следующем ходу."
         ]
     },
     "construct:FoamFinger": {
         "NAME": "Foam Finger",
-        "FLAVOR": "Always useful when you need a helping руку.",
+        "FLAVOR": "Всегда пригодится, когда нужна рука помощи.",
         "DESCRIPTIONS": [
-            "For the first #b3 turns of each combat, draw #b1 additional card at the start of your turn."
+            "Вы берёте на #b1 карту больше в начале хода в течение первых #b3-х ходов боя."
         ]
     },
     "construct:MegaBattery": {
-        "NAME": "Мега Battery",
-        "FLAVOR": "Developed by gremlin inventors in an attempt to create a self-aware robot. It did not go well.",
+        "NAME": "Мега-батарея",
+        "FLAVOR": "Разработан гремлинами-изобретателями в попытке создать осознающего себя робота. Это прошло не очень удачно.",
         "DESCRIPTIONS": [
-            "Upon pick up, #yMega-upgrade a random Construct card."
+            "При получении #yМега-улучшает случайную карту Механизма в колоде."
         ]
     },
     "construct:RocketBooster": {
-        "NAME": "Rocket Booster",
-        "FLAVOR": "It doesn't matter how Слабости your swing is when you're moving at 200 miles per hour.",
+        "NAME": "Ракетный ускоритель",
+        "FLAVOR": "При движении со скоростью 200 миль в час не важно, насколько слабо вы замахиваетесь.",
         "DESCRIPTIONS": [
-            "When you defeat an Elite, #yUpgrade a random card."
+            "#yУлучшает случайную карту за победу над элитными врагами."
         ]
     },
     "construct:PurpleEmber": {
-        "NAME": "Purple Ember",
-        "FLAVOR": "A ghostly, flickering flame. It seems to absorb the power of nearby fires.",
+        "NAME": "Фиолетовый уголк",
+        "FLAVOR": "Призрачное, мерцающее пламя. Кажется, что он поглощает силу ближайших огней.",
         "DESCRIPTIONS": [
-            "When you enter a Rest Site, your starting hand next combat is #yMega-upgraded until the end of combat."
+            "#yМега-улучшает все карты в руке в начале первого боя после лагеря."
         ]
     },
     "construct:WeddingRing": {
-        "NAME": "Wedding Ring",
+        "NAME": "Обручальное кольцо",
         "FLAVOR": "На нем написано - \"FT2J\".",
         "DESCRIPTIONS": [
-            "Upon pickup, choose 2 cards. Once per turn, after you play one of them, play the other one too.",
-            "Once per turn, after you play %s or %s, play the other one too.",
-            "Choose 2 cards to link."
+            "При получении вы выберете 2 карты. Раз в ход, после разыгрывания одной из выбранных карт, разыгрывает и вторую карту.",
+            "Раз в ход, после того, как вы разыграете %s или %s, разыгрывает и вторую карту.",
+            "Выберите 2 карты для связи."
         ]
     },
     "construct:IceCubes": {
@@ -75,57 +75,57 @@
         "NAME": "Bool Horns",
         "FLAVOR": "Horns from a rarely-seen species. Bools are known to only show aggression towards those who speak lies.",
         "DESCRIPTIONS": [
-            "At the start of each combat, deal #b3 damage to a random enemy. Upon entering a non-combat space, double the damage this relic deals next combat."
+            "В начале боя наносит #b3 урона случайному врагу. Удваивает урон на следующий бой при посещении не-боевой комнаты."
         ]
     },
     "construct:LongRangeLance": {
-        "NAME": "Long-Range Lance",
+        "NAME": "Дальнобойное копье",
         "FLAVOR": "You hit exactly what you aimed at.",
         "DESCRIPTIONS": [
-            "At the start of the next combat, deal #b",
-            " damage to a random enemy, then lose this relic."
+            "В начале следующего боя, нанесите #b",
+            " урона случайному врагу, после чего потеряйте эту реликвию."
         ]
     },
     "construct:ExtraLongRangeLance": {
-        "NAME": "EXTRA-Long-Range Lance",
-        "FLAVOR": "Okay, you just launched this one randomly. But it's bound to hit something!",
+        "NAME": "СВЕРХ-дальнобойное копье",
+        "FLAVOR": "Хорошо, ты просто кинул это просто так. Но оно точно во что-то попадет!",
         "DESCRIPTIONS": [
-            "At the start of the combat after the next one, deal #b",
-            " damage to a random enemy, then lose this relic."
+            "В начале боя после следующего боя, нанесите #b",
+            " урона случайному врагу, после чего потеряйте эту реликвию."
         ]
     },
     "construct:Challenge1": {
-        "NAME": "Challenger's Метка 1",
-        "FLAVOR": "The Метка of one who Выберите to undertake the Spire's toughest challenges."
+        "NAME": "Метка испытания 1",
+        "FLAVOR": "Метка выбравшего подвергнуться самым сложным испытаниям Шпиля."
     },
     "construct:Challenge2": {
-        "NAME": "Challenger's Метка 2",
-        "FLAVOR": "The Метка of one who Выберите to undertake the Spire's toughest challenges."
+        "NAME": "Метка испытания 2",
+        "FLAVOR": "Метка выбравшего подвергнуться самым сложным испытаниям Шпиля."
     },
     "construct:Challenge3": {
-        "NAME": "Challenger's Метка 3",
-        "FLAVOR": "The Метка of one who Выберите to undertake the Spire's toughest challenges."
+        "NAME": "Метка испытания 3",
+        "FLAVOR": "Метка выбравшего подвергнуться самым сложным испытаниям Шпиля."
     },
     "construct:Challenge4": {
-        "NAME": "Challenger's Метка 4",
-        "FLAVOR": "The Метка of one who Выберите to undertake the Spire's toughest challenges."
+        "NAME": "Метка испытания 4",
+        "FLAVOR": "Метка выбравшего подвергнуться самым сложным испытаниям Шпиля."
     },
     "construct:Challenge5": {
-        "NAME": "Challenger's Метка 5",
-        "FLAVOR": "The Метка of one who Выберите to undertake the Spire's toughest challenges."
+        "NAME": "Метка испытания 5",
+        "FLAVOR": "Метка выбравшего подвергнуться самым сложным испытаниям Шпиля."
     },
     "construct:FreezeFrame": {
         "NAME": "Замороженная фоторамка",
         "FLAVOR": "Эта деревянная фоторамка невероятно холодна на ощупь.",
         "DESCRIPTIONS": [
-            "Right-click to activate or deactivate. While active, cards do not Cycle when drawn."
+            "ПКМ для активации или деактивации. Карты не Прогоняются, пока активно."
         ]
     },
     "construct:Bumper": {
-        "NAME": "Bumper",
+        "NAME": "Бампер",
         "FLAVOR": "BOIIING!",
         "DESCRIPTIONS": [
-            "When a card would deal damage to you, it deals that damage to a random enemy instead."
+            "Когда карта наносит урон ВАМ, она наносит этот урон случайному врагу вместо этого."
         ]
     },
     "construct:Photocopier": {
