@@ -32,10 +32,10 @@
         ]
     },
     "construct:DoubleNextDamage": {
-        "NAME": "двойной Next урона",
+        "NAME": "Двойной урон следующей атаки",
         "DESCRIPTIONS": [
-            "Your next attack this turn deals double damage.",
-            "Your next #b%s attacks this turn deal double damage."
+            "Следующая ваша атака в этом ходу наносит удвоенный урон.",
+            "Следующие ваши #b%s атак в этом ходу наносит удвоенный урон"
         ]
     },
     "construct:ElectricArmor": {
@@ -60,9 +60,9 @@
         ]
     },
     "construct:ExtraLongRangeLance": {
-        "NAME": "EXTRA-Long-Range Lance",
+        "NAME": "СВЕРХ-дальнобойное копье",
         "DESCRIPTIONS": [
-            "At the start of the combat after the next one, deal #b%s damage to a random enemy."
+            "В начале боя после следующего боя, нанесите #b%s урона случайному врагу."
         ]
     },
     "construct:Failsafe": {
@@ -73,74 +73,74 @@
         ]
     },
     "construct:FlashFreeze": {
-        "NAME": "Flash Freeze",
+        "NAME": "Мгновенная заморозка",
         "DESCRIPTIONS": [
-            "Your cards cannot [#ff9900]Overheat for #b%s more turn.",
-            "Your cards cannot [#ff9900]Overheat for #b%s more turns."
+            "Карты не [#ff9900]Перегреваются следующие #b%s хода.",
+            "Карты не [#ff9900]Перегреваются следующие #b%s ходов."
         ]
     },
     "construct:FutureTurnBlock": {
-        "NAME": "Next Next Turn Защиты",
+        "NAME": "Защита через два хода",
         "DESCRIPTIONS": [
-            "Two turns from now, gain #b%s #yBlock."
+            "Дает #b%s #yЗащиты через два хода."
         ]
     },
     "construct:LongRangeLance": {
-        "NAME": "Long-Range Lance",
+        "NAME": "Дальнобойное копье",
         "DESCRIPTIONS": [
-            "At the start of the next combat, deal #b%s damage to a random enemy."
+            "Наносит #b%s урона случ. врагу в начале следующего боя."
         ]
     },
     "construct:MegaZapper": {
-        "NAME": "Zapper (Mega)",
+        "NAME": "Шокер (Мега)",
         "DESCRIPTIONS": [
-            "Whenever you lose #yStrength or #yDexterity, deal #b%s damage to a random enemy. It loses #b1 #yStrength this turn."
+            "Наносит #b%s урона и отнимает #b1 #yСилу до конца хода у случ. врага, когда вы теряете #yСилу или #yЛовкость."
         ]
     },
     "construct:Meltdown": {
         "NAME": "Meltdown",
         "DESCRIPTIONS": [
-            "At the start of your turn, deal #b%s damage to ALL enemies and add a #yBurn to your hand."
+            "Наносит #b%s урона ВСЕМ врагам и добавляет #yОжог в руку в начале каждого вашего хода."
         ]
     },
     "construct:Multistage": {
         "NAME": "Multistage",
         "DESCRIPTIONS": [
-            "At the start of your next turn, play a copy of %s.",
-            "At the start of your next #b%s turns, play a copy of %s."
+            "Вы разыграете копию %s в начале следующего хода.",
+            "Вы разыграете копию %s в начале следующих #b%s ходов."
         ]
     },
     "construct:NoCycle": {
-        "NAME": "No Прогон",
+        "NAME": "Нет прогона",
         "DESCRIPTIONS": [
-            "Your cards cannot #yCycle for #b%s more turn.",
-            "Your cards cannot #yCycle for #b%s more turns."
+            "Карты не #yПрогоняются #b%s ход.",
+            "Карты не #yПрогоняются #b%s ходов."
         ]
     },
     "construct:OilSpill": {
-        "NAME": "Oil",
+        "NAME": "Нефть",
         "DESCRIPTIONS": [
-            "Whenever a #yBurn card hits you, deal #b%s damage to %s."
+            "Наносит #b%s урона %s, когда #yОжог бьет вас."
         ]
     },
     "construct:Overcharge": {
-        "NAME": "Overcharge",
+        "NAME": "Перегрузка",
         "DESCRIPTIONS": [
-            "At the start of your turn, gain #b%s [E] and add #b%s #yBurn to your hand.",
-            "At the start of your turn, gain #b%s [E] and add #b%s #yBurns to your hand."
+            "Дает #b%s [E] и добавляет #b%s #yОжог в руку в начале каждого вашего хода.",
+            "Дает #b%s [E] и добавляет #b%s #yОжога в руку в начале каждого вашего хода."
         ]
     },
     "construct:Overclock": {
         "NAME": "Overclock",
         "DESCRIPTIONS": [
-            "At the start of your turn, draw #b%s cards and add #b%s #yBurn to your hand.",
-            "At the start of your turn, draw #b%s cards and add #b%s #yBurns to your hand."
+            "Вы берёте #b%s доп. карты и добавляете #b%s #yОжог в руку в начале каждого вашего хода.",
+            "Вы берёте #b%s доп. карты и добавляете #b%s #yОжога в руку в начале каждого вашего хода."
         ]
     },
     "construct:PanicFire": {
         "NAME": "Panic Fire",
         "DESCRIPTIONS": [
-            "Whenever an non-upgraded card #ycycles, #yExhaust it and deal #b%s damage to a random enemy."
+            "Когда не-улучшенная карта #yПрогоняется, #yСожгите её и наносит #b%s урона случ. врагу."
         ]
     },
     "construct:PointDefense": {
@@ -169,37 +169,37 @@
         ]
     },
     "construct:ShiftingStanceMega": {
-        "NAME": "Shifting Stance (Mega)",
+        "NAME": "Изменчивый режим (Мега)",
         "DESCRIPTIONS": [
-            "After you play #b%s more card, swap your #yStrength and #yDexterity, then increase the highest and decrease the lowest by #b1.",
-            "After you play #b%s more cards, swap your #yStrength and #yDexterity, then increase the highest and decrease the lowest by #b1."
+            "После того, как вы разыграете #b%s карту, поменяет местами #yСилу и #yЛовкость, увеличиват большее и уменьшит меньшее на #b1.",
+            "После того, как вы разыграете #b%s карты, поменяет местами #yСилу и #yЛовкость, увеличиват большее и уменьшит меньшее на #b1."
         ]
     },
     "construct:ShiftingStance": {
-        "NAME": "Shifting Stance",
+        "NAME": "Изменчивый режим",
         "DESCRIPTIONS": [
-            "After you play #b%s more card, swap your #yStrength and #yDexterity.",
-            "After you play #b%s more cards, swap your #yStrength and #yDexterity."
+            "После того, как вы разыграете #b%s карту, поменяет местами #yСилу и #yЛовкость.",
+            "После того, как вы разыграете #b%s карты, поменяет местами #yСилу и #yЛовкость."
         ]
     },
     "construct:SiegeForm": {
-        "NAME": "Siege Form",
+        "NAME": "Облик осады",
         "DESCRIPTIONS": [
-            "After you play a card, gain #b%s #yStrength until the end of your turn.",
+            "Дает #b%s #yСилы до конца вашего хода, когда вы разыгрываете карту.",
             "After you play an Attack, gain #b%s #yStrength until the end of your turn."
         ]
     },
     "construct:SpinDrive": {
-        "NAME": "Spin Drive",
+        "NAME": "Привод вращения",
         "DESCRIPTIONS": [
-            "After you play a card, draw a card. Works #b%s times each turn."
+            "Вы берёте 1 карту, когда разыгрываете карту. NL Работает #b%s раз(а) за ход."
         ]
     },
     "construct:Synchronize": {
         "NAME": "Synchronize",
         "DESCRIPTIONS": [
-            "Whenever you draw 2 of the same card in a row, deal #b%s damage to ALL enemies.",
-            " NL (Last drawn: %s)."
+            "Наносит #b%s урона ВСЕМ врагам, когда вы берёте 2 одинаковые карты подряд.",
+            " NL (Последняя карта: %s)."
         ]
     },
     "construct:Syphon": {
@@ -211,7 +211,7 @@
     "construct:Zapper": {
         "NAME": "Шокер",
         "DESCRIPTIONS": [
-            "Whenever you gain #yStrength or #yDexterity, deal #b%s damage to a random enemy. It loses #b1 #yStrength this turn."
+            "Наносит #b%s урона и отнимает #b1 #yСилу до конца хода у случ. врага, когда вы получаете #yСилу или #yЛовкость."
         ]
     }
 }
