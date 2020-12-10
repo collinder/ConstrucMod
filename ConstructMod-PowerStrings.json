@@ -209,7 +209,7 @@
         ]
     },
     "construct:Zapper": {
-        "NAME": "Zapper",
+        "NAME": "Шокер",
         "DESCRIPTIONS": [
             "Whenever you gain #yStrength or #yDexterity, deal #b%s damage to a random enemy. It loses #b1 #yStrength this turn."
         ]

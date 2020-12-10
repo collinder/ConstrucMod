@@ -1,16 +1,16 @@
 {
     "construct:ShiftPotion": {
-        "NAME": "Shift Potion",
+        "NAME": "Изменчивое зелье",
         "DESCRIPTIONS": [
-            "Swap your #yStrength and #yDexterity. Draw #b%s card.",
-            "Swap your #yStrength and #yDexterity. Draw #b%s cards."
+            "Меняет местами #yСилу и #yЛовкость. Вы берёте #b%s карту.",
+            "Меняет местами #yСилу и #yЛовкость. Вы берёте #b%s карты."
         ]
     },
     "construct:MegaPotion": {
-        "NAME": "Мега Potion",
+        "NAME": "Мега зелье",
         "DESCRIPTIONS": [
-            "#yMega-upgrade #b%s random card in your hand for the rest of combat.",
-            "#yMega-upgrade #b%s random cards in your hand for the rest of combat."
+            "#yМега-улучшает #b%s случайную карту в руке до конца боя.",
+            "#yМега-улучшает #b%s случайных карт в руке до конца боя."
         ]
     }
 }

@@ -28,7 +28,7 @@
         ]
     },
     "construct:FoamFinger": {
-        "NAME": "Foam Finger",
+        "NAME": "Рука поддержки",
         "FLAVOR": "Всегда пригодится, когда нужна рука помощи.",
         "DESCRIPTIONS": [
             "Вы берёте на #b1 карту больше в начале хода в течение первых #b3-х ходов боя."
@@ -72,15 +72,15 @@
         ]
     },
     "construct:BoolHorns": {
-        "NAME": "Bool Horns",
-        "FLAVOR": "Horns from a rarely-seen species. Bools are known to only show aggression towards those who speak lies.",
+        "NAME": "Рога була",
+        "FLAVOR": "Рога редко-встречаемого вида. Булы, как известно, проявляют агрессию только к тем, кто лжет.",
         "DESCRIPTIONS": [
             "В начале боя наносит #b3 урона случайному врагу. Удваивает урон на следующий бой при посещении не-боевой комнаты."
         ]
     },
     "construct:LongRangeLance": {
         "NAME": "Дальнобойное копье",
-        "FLAVOR": "You hit exactly what you aimed at.",
+        "FLAVOR": "Вы попали именно в то, куда стремились.",
         "DESCRIPTIONS": [
             "В начале следующего боя, нанесите #b",
             " урона случайному врагу, после чего потеряйте эту реликвию."
