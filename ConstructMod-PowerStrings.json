@@ -1,34 +1,34 @@
 {
     "construct:Afterburners": {
-        "NAME": "Afterburners",
+        "NAME": "Форсаж",
         "DESCRIPTIONS": [
-            "Your next non-rare card is played #b%s times this turn."
+            "Ваша следующая не-редкая карта разыгрывается #b%s раз в этом ходу."
         ]
     },
     "construct:Agitation": {
-        "NAME": "Agitation",
+        "NAME": "Перемешивание",
         "DESCRIPTIONS": [
-            "Whenever a card [#ff9900]Overheats, gain #b%s #yStrength and #b%s #yDexterity."
+            "Дает #b%s #yСилы м #b%s #yЛовкости, когда карта [#ff9900]Перегревается."
         ]
     },
     "construct:Autoturret": {
-        "NAME": "Autoturret",
+        "NAME": "Автотурель",
         "DESCRIPTIONS": [
-            "Whenever a card #ycycles, deal #b%s damage to a random enemy."
+            "Наносит #b%s урона случ. врагу, когда карта Прогоняется."
         ]
     },
     "construct:Bunker": {
-        "NAME": "Bunker",
+        "NAME": "Бункер",
         "DESCRIPTIONS": [
-            "When a card is #yRetained, gain #b%s #yBlock."
+            "Дает #b%s #yЗащиты, когда карта Оставляется."
         ]
     },
     "construct:SelfStasis": {
-        "NAME": "Self-Stasis",
+        "NAME": "Стазис",
         "DESCRIPTIONS": [
             "Holding: ",
-            ". NL When Stasis is played again, add #b%s #yMega-upgraded copy to your hand.",
-            ". NL When Stasis is played again, add #b%s #yMega-upgraded copies to your hand."
+            ". NL При следующем разыгрывании Стазиса, добавьте #yМега-улучшенную копию #b%s в руку.",
+            ". NL При следующем разыгрывании Стазиса, добавьте #yМега-улучшенные копии #b%s в руку."
         ]
     },
     "construct:DoubleNextDamage": {
@@ -39,24 +39,24 @@
         ]
     },
     "construct:ElectricArmor": {
-        "NAME": "Electric Armor",
+        "NAME": "Электроброня",
         "DESCRIPTIONS": [
-            "When attacked this turn, deals damage back equal to your #yDexterity.",
-            "When attacked for the next #b%s turns, deals damage back equal to your #yDexterity."
+            "Наносит врагу урон, равный вашей #yЛовкости, в ответ на каждую атаку в этом ходу.",
+            "Наносит врагу урон, равный вашей #yЛовкости, в ответ на каждую атаку в следующих #b%s ходах."
         ]
     },
     "construct:EnhanceMega": {
-        "NAME": "Enhance (Mega)",
+        "NAME": "Усилить (Мега)",
         "DESCRIPTIONS": [
-            "At the end of your turn, #yUpgrade #b%s card in your discard pile. (Can #yMega-upgrade.)",
-            "At the end of your turn, #yUpgrade #b%s cards in your discard pile. (Can #yMega-upgrade.)"
+            "#yУлучшает #b%s случ. карту в стопке сброса до конца боя в конце каждого вашего хода. (Может Мега-улучшать карты.)",
+            "#yУлучшает #b%s случ. карты в стопке сброса до конца боя в конце каждого вашего хода. (Может Мега-улучшать карты.)"
         ]
     },
     "construct:Enhance": {
-        "NAME": "Enhance",
+        "NAME": "Усилить",
         "DESCRIPTIONS": [
-            "At the end of your turn, #yUpgrade #b%s card in your discard pile.",
-            "At the end of your turn, #yUpgrade #b%s cards in your discard pile."
+            "#yУлучшает #b%s случ. карту в стопке сброса до конца боя в конце каждого вашего хода.",
+            "#yУлучшает #b%s случ. карты в стопке сброса до конца боя в конце каждого вашего хода."
         ]
     },
     "construct:ExtraLongRangeLance": {
@@ -66,10 +66,10 @@
         ]
     },
     "construct:Failsafe": {
-        "NAME": "Failsafe",
+        "NAME": "Отказоустойчивость",
         "DESCRIPTIONS": [
-            "The next Status card you draw will #yCycle. Resets to #b%s at the start of your turn.",
-            "The next #b%s Status cards you draw will #yCycle. Resets to #b%s at the start of your turn."
+            "Следующий Статус, который вы берёте, #yПрогоняется. Сбрасывается до #b%s в начале вашего хода.",
+            "Следующие #b%s Статусы, которые вы берёте, #yПрогоняются. Сбрасывается до #b%s в начале вашего хода."
         ]
     },
     "construct:FlashFreeze": {
@@ -144,28 +144,28 @@
         ]
     },
     "construct:PointDefense": {
-        "NAME": "Point Защитный",
+        "NAME": "Точечная защита",
         "DESCRIPTIONS": [
-            "Whenever a card #ycycles, gain #b1 #yBlock. Works #b%s times each turn."
+            "Дает #b1 #yЗащиты, когда карта #yПрогоняется. Работает #b%s раз(а) за ход."
         ]
     },
     "construct:ReactiveShield": {
-        "NAME": "Reactive Shield",
+        "NAME": "Реактивный щит",
         "DESCRIPTIONS": [
-            "When you gain #yBlock, deal #b%s damage to the enemy with the lowest HP."
+            "Наносит #b%s урона врагу с наименьшим кол-вом ОЗ, когда вы получаете #yЗащиту."
         ]
     },
     "construct:SaveState": {
-        "NAME": "Save State",
+        "NAME": "Сохранить состояние",
         "DESCRIPTIONS": [
-            "At the end of your turn, #yRetain your hand."
+            "В конце хода вы #yОставите все карты в руке."
         ]
     },
     "construct:RetainRandom": {
-        "NAME": "Оставляется Random",
+        "NAME": "Оставить случайную карту",
         "DESCRIPTIONS": [
-            "At the end of your turn, #yRetain #b%s random card.",
-            "At the end of your turn, #yRetain #b%s random cards."
+            "#yОставьте #b%s случ. карту в конце вашего хода.",
+            "#yОставьте #b%s случ. карт в конце вашего хода."
         ]
     },
     "construct:ShiftingStanceMega": {
@@ -203,9 +203,9 @@
         ]
     },
     "construct:Syphon": {
-        "NAME": "Syphon",
+        "NAME": "Сифон",
         "DESCRIPTIONS": [
-            "Whenever %s takes Attack damage, draw #b1 card."
+            "Когда %s получает урон от Атак, вы берёте #b1 карту."
         ]
     },
     "construct:Zapper": {
