@@ -4,13 +4,13 @@
             "прогоняется",
             "прогоняемая"
         ],
-        "DESCRIPTION": "When drawn, disкарту this and берете a new карту. Only works once per turn."
+        "DESCRIPTION": "При взятии сбросьте эту карту и возьмите 1 карту. Работает раз в ход."
     },
     "BLUR": {
         "NAMES": [
-            "blur"
+            "неуловимости"
         ],
-        "DESCRIPTION": "Your #yЗащиты is carried over between turns."
+        "DESCRIPTION": "#yЗащита не исчезает в начале хода."
     },
     "METALLICIZE": {
         "NAMES": [
@@ -37,26 +37,28 @@
         "NAMES": [
             "ядра"
         ],
-        "DESCRIPTION": "Ядра are карт that #yПрогон and Накладывает a smВСЕМ bonus effect."
+        "DESCRIPTION": "Ядра - карты, которые #yПрогоняются и накладывают слабый бонусный эффект."
     },
     "EGG": {
         "NAMES": [
-            "egg",
+            "яйца",
             "eggs"
         ],
-        "DESCRIPTION": "Яйцо are реликия that automatically #yUpgrade карт when you acquire them."
+        "DESCRIPTION": "Яйцо - реликия, автоматически #yУлучшающая карты при их получении. Считаются только яйца из базовой игры."
     },
     "MEGA_UPGRADE": {
         "NAMES": [
-            "mega-upgrade",
-            "mega-upgraded"
+            "мега-улучшить",
+            "мега-улучшает",
+            "мега-улучшать",
+            "мега-улучшенных"
         ],
-        "DESCRIPTION": "A second upgrade that makes Construct карт even more powerful."
+        "DESCRIPTION": "Второе улучшение, делающее карты Механизма намного сильнее."
     },
     "OVERHEAT": {
         "NAMES": [
-            "overheat",
-            "overheats",
+            "перегрев",
+            "перегревается",
             "overheated",
             "[#ff9900]overheat",
             "[#ff9900]overheats",
