@@ -2,8 +2,7 @@
     "CYCLE": {
         "NAMES": [
             "прогоняется",
-            "прогоняемая",
-            "прогон"
+            "прогоняемая"
         ],
         "DESCRIPTION": "When drawn, disкарту this and берете a new карту. Only works once per turn."
     },
@@ -30,40 +29,39 @@
     },
     "SLIMED": {
         "NAMES": [
-            "в слизи"
+            "slimed"
         ],
-        "DESCRIPTION": "В слизи - Статус, который разыгрывается за [R] и Сжигается."
+        "DESCRIPTION": "слизи is a Статус карту that costs [R] to Сжигается."
     },
     "CORES": {
         "NAMES": [
             "ядра"
         ],
-        "DESCRIPTION": "Ядра - карты,которые #yПрогоняются и накладывают слабый дополнительный эффект."
+        "DESCRIPTION": "Ядра are карт that #yПрогон and Накладывает a smВСЕМ bonus effect."
     },
     "EGG": {
         "NAMES": [
-            "яйца",
-            "яйцо"
+            "egg",
+            "eggs"
         ],
-        "DESCRIPTION": "Яйца - реликвии, автоматически #yУлучшающие карты, когда вы добавляете их в колоду. Яйца из модов не учитываются."
+        "DESCRIPTION": "Яйцо are реликия that automatically #yUpgrade карт when you acquire them."
     },
     "MEGA_UPGRADE": {
         "NAMES": [
-            "мега-улучшить",
-            "мега-улучшенных",
-            "мега-улучшать",
+            "mega-upgrade",
+            "mega-upgraded"
         ],
-        "DESCRIPTION": "Второе улучшение, делающее карты Механизма еще более мощными."
+        "DESCRIPTION": "A second upgrade that makes Construct карт even more powerful."
     },
     "OVERHEAT": {
         "NAMES": [
-            "перегрев",
-            "перегреваются",
-            "перегревается",
-            "[#ff9900]перегрев",
-            "[#ff9900]перегреваются",
-            "[#ff9900]перегревается",
-            "[#ff9900]перегрев:"
+            "overheat",
+            "overheats",
+            "overheated",
+            "[#ff9900]overheat",
+            "[#ff9900]overheats",
+            "[#ff9900]overheated",
+            "[#ff9900]overheat:"
         ],
         "DESCRIPTION": "When too many карт #yПрогон in one turn, transform this карту into a #yОжог for this combat."
     }
