@@ -7,22 +7,22 @@
       "Половина ваших [#ffff66]Оставляемых [#ffffff] карт сбрасываются в конце вашего хода.",
       "[#ffff66]Ожоги теперь [#ffff66]улучшенные.",
       "(Макс. УРОВЕНЬ) ВСЕ карты Механизма менее эффективны.",
-      "Cards that shift your stats now Cycle under certain conditions.",
-      "Cards with the Retain keyword place themselves on top of your draw pile instead of Retaining.",
-      "[#ffff66]Burn [#ffffff]cards are now [#ffff66]Mega-upgraded."
+      "Карты на +/- теперь Прогоняются под определенными условиями.",
+      "Карты, которые Оставляются, вместо этого сбрасываются на верх стопки добора.",
+      "[#ffff66]Ожоги теперь [#ffff66]Мега-улучшенные."
     ]
   },
   "constructShortChallengeLevels": {
     "TEXT": [
       "",
-      "Режимы дают #b+1/-1 & из нельзя копировать.",
+      "Режимы дают #b+1/-1 & их нельзя копировать.",
       "Стартовые карты имеют [#ff9900]Перегрев.",
       "Сбрасывайте 50% #yОставляемых карт.",
-      "#yBurns are #yupgraded.",
-      "Weaker cards.",
-      "Stat-shifting cards #yCycle.",
-      "#yRetain cards rebound.",
-      "#yMega-upgraded #yBurns."
+      "#yОжоги #yулучшены.",
+      "Слабее карты.",
+      "Карты на +/- #yПрогоняются.",
+      "#yОставляемые карты - сбрасываются в добор.",
+      "#yМега-улучшенные #yОжоги."
     ]
   },
   "constructActionText": {
@@ -41,8 +41,8 @@
       "Влюкчить Перегретое дополнение",
       "Перегретое дополнение",
       "Привносит новую механику [#ff9900]Перегрева, #b15 новых карт, и #b1 новую реликвию.",
-      "Challenge Mode modifies your character-specific cards and items for a more difficult climb.",
-      " More levels coming soon!"
+      "Режим испытания модифицирует карты и реликвии Механизма для более сложного забега.",
+      " Скоро тут будет больше уровней!"
     ]
   },
   "constructMemoryText": {
@@ -63,10 +63,10 @@
       "Позволить другим персонажам находить некоторые реликвии Механизма.",
       "Позволить другим персонажам находить некоторые зелья Механизма.",
       " (ТРЕБУЕТ ПЕРЕЗАПУСК)",
-      "Set Unlock level to MAX. ",
+      "Разблокировать ВСЕ. ",
       "Unlocks appear on the character select screen.",
-      "Experimental future levels for Challenge Mode. These are subject to change.",
-      "Currently %s levels exist. There are planned to be %s in total.",
+      "Экспериментальные уровни режима испытания. Они могут измениться.",
+      "Сейчас есть %s уровней. Планируется всего: %s.",
       "Режим испытания:"
     ]
   }
