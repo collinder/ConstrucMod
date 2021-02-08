@@ -4,7 +4,7 @@
         "DESCRIPTION": "Прогоняется, если Силы < 0. NL Наносит !D! урона."
     },
     "construct:Defend_Gold": {
-        "NAME": "Защита",
+        "NAME": "Оборона",
         "DESCRIPTION": "Прогоняется, если Ловкости < 0. NL Дает !B! Защиты."
     },
     "construct:HeatedStrike": {
